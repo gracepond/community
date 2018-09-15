@@ -1,2 +1,2 @@
 # community
-Community to share text and photo files
+Project for community to share text and photo files
